@@ -10,7 +10,7 @@ CryptoKeyHunter is a Python script that generates an unlimited number of Bitcoin
 ## Usage
 
 1. Prepare a text file named `btcaddress.txt` containing the target Bitcoin addresses, with one address per line.
-2. Run the script using `python btc_address_key_gen.py` (replace `btc_address_key_gen.py` with the name of the script file).
+2. Run the script using `python Hunt.py`.
 
 The script will generate an unlimited number of Bitcoin addresses and keys, both compressed and uncompressed, and check if they match any of the addresses in `btcaddress.txt`. If a match is found, the script will save the matched address and its corresponding private key in a file named `Found.txt`.
 
