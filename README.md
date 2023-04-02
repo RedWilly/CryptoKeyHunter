@@ -6,6 +6,7 @@ CryptoKeyHunter is a Python script that generates an unlimited number of Bitcoin
 - Python 3.6 or higher
 - ecdsa (`pip install ecdsa`)
 - base58 (`pip install base58`)
+- Bloom filters (`pip install pybloom_live`) - HuntBL
 
 ## Usage
 
